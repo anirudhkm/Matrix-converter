@@ -1,4 +1,4 @@
-This project deals with 3 phase to 3 phase matrix converter. 
+This project deals with 3 phase to 3 phase matrix converter which was done by me along with Aparajith Sreedharan and Badri Narayanan.
 
 The idea of the project is to input 3-phase supply from wind sources, where we can experience variable frequency and voltage. 
 
